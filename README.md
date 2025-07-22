@@ -1,4 +1,4 @@
-# XMRTH机场 - 官网网站发布页
+# XMRTH机场 - 官方网站发布页
 
 [XMRTH机场](https://www.xmrth.lol/auth/register?code=CauL)，一家性价比超高的 V2Ray 机场。入门套餐仅需 5 CNY，即可享受百兆速率 1000 GB 流量/月。体验优秀。对于有预算要求的朋友，或需要备用机场的朋友，是个不错的选择。
 
